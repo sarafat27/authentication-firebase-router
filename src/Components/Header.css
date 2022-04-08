@@ -1,0 +1,16 @@
+.header nav a {
+    margin-right: 30px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.header nav {
+    margin-top: 20px;
+}
+
+.header nav a:hover {
+    color: red;
+}
