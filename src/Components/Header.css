@@ -14,8 +14,3 @@
 .header nav a:hover {
     color: red;
 }
-
-.header nav button {
-    border: 0;
-    background-color: white;
-}
